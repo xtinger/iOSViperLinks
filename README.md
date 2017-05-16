@@ -2,6 +2,7 @@
 Some links related with VIPER architecture for iOS
 
 * [Example of an iOS app based on VIPER architecture](https://github.com/aspirity-ru/ViperListExample-iOS)  
+* [The Book of VIPER (Rambler)](https://github.com/strongself/The-Book-of-VIPER)
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 
 
