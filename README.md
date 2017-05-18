@@ -4,6 +4,7 @@ Some links related with VIPER architecture for iOS
 * [Example of an iOS app based on VIPER architecture](https://github.com/aspirity-ru/ViperListExample-iOS)  
 * [The Book of VIPER (Rambler)](https://github.com/strongself/The-Book-of-VIPER)
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
+* [iOS Architecture Patterns (Demystifying MVC, MVP, MVVM and VIPER) by Bohdan Orlov](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 
 
 ## Other usual Links
