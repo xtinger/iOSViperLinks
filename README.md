@@ -6,6 +6,11 @@ Some links related with VIPER architecture for iOS
 * [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
 * [iOS Architecture Patterns (Demystifying MVC, MVP, MVVM and VIPER) by Bohdan Orlov](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [iOS-VIPER-Xcode-Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates)
+* [An example Todo list app written in Swift using the VIPER architecture.](https://github.com/mutualmobile/VIPER-SWIFT)
+* [Viper Framework for iOS using Swift v4](https://github.com/ferranabello/Viperit)
+* [Example of (B)VIPER mobile design approach](https://github.com/nzaghini/b-viper)
+* [This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)
+* [Demo app for VIPER design pattern implementation](https://github.com/pedrohperalta/Articles-iOS-VIPER)
 
 
 
