@@ -8,9 +8,11 @@ Some links related with VIPER architecture for iOS
 * [iOS-VIPER-Xcode-Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates)
 
 
+
 ## Other usual Links
 * [Swinject](https://github.com/Swinject/Swinject), [Docs](https://github.com/Swinject/Swinject/blob/master/Documentation/)
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
 * [Alamofire](https://github.com/Alamofire/Alamofire) and [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 * [Little example to use LightRoute and DI Swinject on Swift 3](https://github.com/SpectralDragon/Viper-LightRoute-Swinject)
+* [Generamba - automatic VIPER module generator](https://github.com/rambler-digital-solutions/Generamba)
