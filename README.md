@@ -13,3 +13,4 @@ Some links related with VIPER architecture for iOS
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
 * [Alamofire](https://github.com/Alamofire/Alamofire) and [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
+* [Little example to use LightRoute and DI Swinject on Swift 3]
