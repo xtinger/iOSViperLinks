@@ -22,3 +22,4 @@ Some links related with VIPER architecture for iOS
 * [Little example to use LightRoute and DI Swinject on Swift 3](https://github.com/SpectralDragon/Viper-LightRoute-Swinject)
 * [Generamba - automatic VIPER module generator](https://github.com/rambler-digital-solutions/Generamba)
 * [LightRoute is easy transition between VIPER modules. Written on Swift 3.](https://github.com/SpectralDragon/LightRoute)
+* [Avito Marshroute](https://github.com/avito-tech/Marshroute)
