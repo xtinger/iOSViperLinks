@@ -11,7 +11,7 @@ Some links related with VIPER architecture for iOS
 * [Example of (B)VIPER mobile design approach](https://github.com/nzaghini/b-viper)
 * [This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)
 * [Demo app for VIPER design pattern implementation](https://github.com/pedrohperalta/Articles-iOS-VIPER)
-* [MindorksOpenSource/iOS-Viper-Architecture Sample App] (https://github.com/MindorksOpenSource/iOS-Viper-Architecture)
+* [MindorksOpenSource/iOS-Viper-Architecture Sample App](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)
 
 
 
